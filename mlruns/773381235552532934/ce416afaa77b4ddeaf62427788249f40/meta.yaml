@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/773381235552532934/ce416afaa77b4ddeaf62427788249f40/artifacts
+end_time: 1750762734454
+entry_point_name: ''
+experiment_id: '773381235552532934'
+lifecycle_stage: active
+run_id: ce416afaa77b4ddeaf62427788249f40
+run_name: intelligent-newt-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750762725365
+status: 3
+tags: []
+user_id: ASUS

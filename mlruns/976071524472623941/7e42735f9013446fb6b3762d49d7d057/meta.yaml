@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/976071524472623941/7e42735f9013446fb6b3762d49d7d057/artifacts
+end_time: 1750751992820
+entry_point_name: ''
+experiment_id: '976071524472623941'
+lifecycle_stage: active
+run_id: 7e42735f9013446fb6b3762d49d7d057
+run_name: casual-trout-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750751992699
+status: 3
+tags: []
+user_id: ASUS
